@@ -8,6 +8,7 @@ sudo mkdir -p /root/.datagram/tmp
 sudo chown root:root /root/.datagram/tmp
 ```
 ```
+sudo apt update
 sudo apt install nano
 ```
 ```
